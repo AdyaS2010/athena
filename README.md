@@ -1,3 +1,3 @@
-# Athena Awards
+# GH Tutorial
 *OH YEAAHHHHHHHH!!!!!!*
 -Git Workshop-
